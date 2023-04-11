@@ -24,19 +24,19 @@ La Wiki de Perros es un proyecto destinado a brindar información completa y pre
 
 ### Características
 
-Lista de todas las razas de perros conocidas, ordenadas alfabéticamente y por peso
+-Lista de todas las razas de perros conocidas, ordenadas alfabéticamente y por peso
 
-Página dedicada a cada raza con información detallada, incluyendo:
+-Página dedicada a cada raza con información detallada, incluyendo:
 
-Descripción general de la raza
+-Descripción general de la raza
 
-Características físicas (peso y altura)
+-Características físicas (peso y altura)
 
-Temperamento y personalidad
+-Temperamento y personalidad
 
-Esperanza de vida
+-Esperanza de vida
 
-Posibilidad de buscar razas por nombre
+-Posibilidad de buscar razas por nombre
 
 
 Tecnologías utilizadas:
