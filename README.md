@@ -25,11 +25,17 @@ La Wiki de Perros es un proyecto destinado a brindar información completa y pre
 ### Características
 
 Lista de todas las razas de perros conocidas, ordenadas alfabéticamente y por peso
+
 Página dedicada a cada raza con información detallada, incluyendo:
+
 Descripción general de la raza
+
 Características físicas (peso y altura)
+
 Temperamento y personalidad
+
 Esperanza de vida
+
 Posibilidad de buscar razas por nombre
 
 
@@ -56,12 +62,19 @@ El E-commerce de Ropa es un proyecto destinado a ofrecer una plataforma de compr
 ### Características
 
 -Catálogo de productos de ropa con fotos, descripciones y precios
+
 -Carrito de compras para seleccionar y pagar productos
+
 -Control de stock automatico al completarce una compra
+
 -Formulario de registro e inicio de sesión para usuarios
+
 -Área de usuario para ver historial de compras y detalles de la cuenta
+
 -Área de administrador para agregar, editar y bloquear productos y usuarios
+
 -Panel de administración para ver los informes de ventas
+
 -Integración con plataformas de pago en línea (Mercadopago)
 
 ### Tecnologías utilizadas
