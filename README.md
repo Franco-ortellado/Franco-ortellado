@@ -16,6 +16,10 @@ Soy un desarrollador Full Stack con experiencia en el desarrollo de aplicaciones
 
 https://dogs-pi-gamma.vercel.app/
 
+![alt text](https://github.com/Franco-ortellado/Franco-ortellado/blob/main/Captura.JPG)
+
+![alt text](https://github.com/Franco-ortellado/Franco-ortellado/blob/main/Captura2.JPG)
+
 La Wiki de Perros es un proyecto destinado a brindar información completa y precisa sobre todas las razas de perros existentes. En este sitio web, los usuarios podrán encontrar información detallada sobre cada raza, incluyendo características físicas, temperamentos, esperanza de vida y mucho más.
 
 ### Características
