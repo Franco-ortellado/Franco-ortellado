@@ -57,6 +57,8 @@ Este proyecto es una gran oportunidad para aprender y mejorar habilidades de des
 ## E-commerce de Ropa
 https://proyecto-final-henry-nu.vercel.app
 
+![alt text](https://github.com/Franco-ortellado/Franco-ortellado/blob/main/dressMe.jpg)
+
 El E-commerce de Ropa es un proyecto destinado a ofrecer una plataforma de compras en línea para una tienda de ropa. El sitio web permitirá a los usuarios registrarse e iniciar sesión para comprar ropa, y a los administradores iniciar sesión para administrar el inventario, las órdenes y los usuarios.
 
 ### Características
